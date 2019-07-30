@@ -16,7 +16,7 @@
     "react-scripts": "3.0.1",
     "styled-components": "^4.3.2"
   },
-  "homepage":".",
+  "homepage":"https://mukeshmonk.github.io/truetrans",
   "scripts": {   
     "start": "react-scripts start",
     "predeploy":"npm run build",
@@ -25,6 +25,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "proxy": "https://idea.truebook.in/",
   "eslintConfig": {
     "extends": "react-app"
   },
