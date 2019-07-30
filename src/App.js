@@ -11,7 +11,7 @@ class App extends Component {
   render() {
     return (
       <div className="app">
-          <Router basename="/truetrans">
+          <Router basename={process.env.PUBLIC_URL}>
               <div>
                   <div className="content">
                     <Route  exact path="/" component={Login}/>
