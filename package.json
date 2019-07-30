@@ -16,7 +16,7 @@
     "react-scripts": "3.0.1",
     "styled-components": "^4.3.2"
   },
-  "homepage":"https://mukeshmonk.github.io/truetrans",
+  "homepage":"https://idea.truebook.in/",
   "scripts": {   
     "start": "react-scripts start",
     "predeploy":"npm run build",
