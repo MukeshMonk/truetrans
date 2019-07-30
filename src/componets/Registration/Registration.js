@@ -103,7 +103,7 @@ class Registration extends React.Component{
           let init = {
             method: 'POST',
             headers: { 'content-type': 'multipart/form-data' },
-            mode: 'cors',
+            mode: 'no-cors',
             cache: 'default',
             dataType: 'json',
             type:     'POST',
