@@ -16,12 +16,12 @@
     "react-scripts": "3.0.1",
     "styled-components": "^4.3.2"
   },
-  "homepage":"https://mukeshmonk.github.io/truetrans.git/",
-  "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+  "homepage":"https://mukeshmonk.github.io/truetrans",
+  "scripts": {   
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
