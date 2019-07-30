@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.930e2092.chunk.css",
-    "main.js": "/static/js/main.ae84c396.chunk.js",
-    "main.js.map": "/static/js/main.ae84c396.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.400f043a.chunk.css": "/static/css/2.400f043a.chunk.css",
-    "static/js/2.0659d908.chunk.js": "/static/js/2.0659d908.chunk.js",
-    "static/js/2.0659d908.chunk.js.map": "/static/js/2.0659d908.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.635539db41d0027b7dac9b38d759ea15.js": "/precache-manifest.635539db41d0027b7dac9b38d759ea15.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.400f043a.chunk.css.map": "/static/css/2.400f043a.chunk.css.map",
-    "static/css/main.930e2092.chunk.css.map": "/static/css/main.930e2092.chunk.css.map",
-    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/truetrans/static/css/main.930e2092.chunk.css",
+    "main.js": "/truetrans/static/js/main.ae84c396.chunk.js",
+    "main.js.map": "/truetrans/static/js/main.ae84c396.chunk.js.map",
+    "runtime~main.js": "/truetrans/static/js/runtime~main.dd763620.js",
+    "runtime~main.js.map": "/truetrans/static/js/runtime~main.dd763620.js.map",
+    "static/css/2.f1369401.chunk.css": "/truetrans/static/css/2.f1369401.chunk.css",
+    "static/js/2.a6ff1bba.chunk.js": "/truetrans/static/js/2.a6ff1bba.chunk.js",
+    "static/js/2.a6ff1bba.chunk.js.map": "/truetrans/static/js/2.a6ff1bba.chunk.js.map",
+    "index.html": "/truetrans/index.html",
+    "precache-manifest.75e3caf63370a2b93cc112076d8c1442.js": "/truetrans/precache-manifest.75e3caf63370a2b93cc112076d8c1442.js",
+    "service-worker.js": "/truetrans/service-worker.js",
+    "static/css/2.f1369401.chunk.css.map": "/truetrans/static/css/2.f1369401.chunk.css.map",
+    "static/css/main.930e2092.chunk.css.map": "/truetrans/static/css/main.930e2092.chunk.css.map",
+    "static/media/font-awesome.min.css": "/truetrans/static/media/fontawesome-webfont.fee66e71.woff"
   }
 }
