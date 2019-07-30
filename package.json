@@ -16,7 +16,7 @@
     "react-scripts": "3.0.1",
     "styled-components": "^4.3.2"
   },
-  "homepage":"https://github.com/MukeshMonk/tps_new.git",
+  "homepage":"https://mukeshmonk.github.io/truetrans/",
   "scripts": {
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
