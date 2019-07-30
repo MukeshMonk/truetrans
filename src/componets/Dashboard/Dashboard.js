@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 //import { Route,HashRouter as Router,Link,Switch } from 'react-router-dom';
-import { Route,HashRouter as Router,Link,Switch} from 'react-router-dom';
+import { Route,BrowserRouter as Router,Link,Switch} from 'react-router-dom';
 import styled from 'styled-components';
 import Profile from './Profile/Profile';
 import Lorry_Receipt from './Lorry_Receipt/Lorry_Receipt';
