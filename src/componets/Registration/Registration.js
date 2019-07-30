@@ -55,7 +55,7 @@ class Registration extends React.Component{
           
         };
 
-        axios.post('/tps_api/index.php?view=mobile_verify',formData,init)
+        axios.post('https://idea.truebook.in/tps_api/index.php?view=mobile_verify',formData,init)
         .then(response => {
           
           const tm = response.data.request_time;
@@ -131,7 +131,7 @@ class Registration extends React.Component{
           formData.append('cpwd', re_password);
 
           formData.append('request_time', this.state.request_time);
-        axios.post('/tps_api/index.php?view=register',formData,init)
+        axios.post('https://idea.truebook.in/tps_api/index.php?view=register',formData,init)
         .then(response => {
           console.log(response.data.msgcode);
           const msgcode= response.data.msgcode;
