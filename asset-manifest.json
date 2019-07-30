@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.930e2092.chunk.css",
-    "main.js": "./static/js/main.5b85a90f.chunk.js",
-    "main.js.map": "./static/js/main.5b85a90f.chunk.js.map",
-    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
-    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
-    "static/css/2.62f4602b.chunk.css": "./static/css/2.62f4602b.chunk.css",
-    "static/js/2.fcf4772c.chunk.js": "./static/js/2.fcf4772c.chunk.js",
-    "static/js/2.fcf4772c.chunk.js.map": "./static/js/2.fcf4772c.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.e4a8c47e2ae520dc649b8396199d2804.js": "./precache-manifest.e4a8c47e2ae520dc649b8396199d2804.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.62f4602b.chunk.css.map": "./static/css/2.62f4602b.chunk.css.map",
-    "static/css/main.930e2092.chunk.css.map": "./static/css/main.930e2092.chunk.css.map",
-    "static/media/font-awesome.min.css": "./static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/truetrans/static/css/main.930e2092.chunk.css",
+    "main.js": "/truetrans/static/js/main.97a77cca.chunk.js",
+    "main.js.map": "/truetrans/static/js/main.97a77cca.chunk.js.map",
+    "runtime~main.js": "/truetrans/static/js/runtime~main.dd763620.js",
+    "runtime~main.js.map": "/truetrans/static/js/runtime~main.dd763620.js.map",
+    "static/css/2.f1369401.chunk.css": "/truetrans/static/css/2.f1369401.chunk.css",
+    "static/js/2.a6ff1bba.chunk.js": "/truetrans/static/js/2.a6ff1bba.chunk.js",
+    "static/js/2.a6ff1bba.chunk.js.map": "/truetrans/static/js/2.a6ff1bba.chunk.js.map",
+    "index.html": "/truetrans/index.html",
+    "precache-manifest.144cc15e4c9ff6e782d155e007212e7c.js": "/truetrans/precache-manifest.144cc15e4c9ff6e782d155e007212e7c.js",
+    "service-worker.js": "/truetrans/service-worker.js",
+    "static/css/2.f1369401.chunk.css.map": "/truetrans/static/css/2.f1369401.chunk.css.map",
+    "static/css/main.930e2092.chunk.css.map": "/truetrans/static/css/main.930e2092.chunk.css.map",
+    "static/media/font-awesome.min.css": "/truetrans/static/media/fontawesome-webfont.fee66e71.woff"
   }
 }
