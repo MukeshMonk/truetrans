@@ -309,7 +309,7 @@ class Dashboard extends Component {
                 <IconDrop className="fa fa-caret-down"></IconDrop>
                 <Dropdowncont>
                    <Link className="prof_link" to="/profile" >Profile</Link>
-                   {AllFormData.data.data.tpsData.user_type ==='Admin' && <Link className="prof_link" to="/basic_configuration">Basic Configuration</Link>}
+                   {/* {AllFormData.data.data.tpsData.user_type ==='Admin' && <Link className="prof_link" to="/basic_configuration">Basic Configuration</Link>} */}
                    <Link className="prof_link" to="" onClick={this.logout.bind(this)}>Logout</Link>
                   
                    
@@ -335,7 +335,7 @@ class Dashboard extends Component {
               </div>
             </div> */}
             
-              {AllFormData.data.data.tpsData.company_id ==='' && AllFormData.data.data.tpsData.user_type ==='Admin' ? <div className="cmp_name"> <Link to="/addcompany"><Button>+Add company</Button> </Link></div>:''}
+              {/* {AllFormData.data.data.tpsData.company_id ==='' && AllFormData.data.data.tpsData.user_type ==='Admin' ? <div className="cmp_name"> <Link to="/addcompany"><Button>+Add company</Button> </Link></div>:''} */}
               
          
                   <Switch>
