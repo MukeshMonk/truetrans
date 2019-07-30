@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/truetrans.git/static/css/main.930e2092.chunk.css",
-    "main.js": "/truetrans.git/static/js/main.10b8dfe8.chunk.js",
-    "main.js.map": "/truetrans.git/static/js/main.10b8dfe8.chunk.js.map",
-    "runtime~main.js": "/truetrans.git/static/js/runtime~main.a2ae936e.js",
-    "runtime~main.js.map": "/truetrans.git/static/js/runtime~main.a2ae936e.js.map",
-    "static/css/2.1e999941.chunk.css": "/truetrans.git/static/css/2.1e999941.chunk.css",
-    "static/js/2.1070589e.chunk.js": "/truetrans.git/static/js/2.1070589e.chunk.js",
-    "static/js/2.1070589e.chunk.js.map": "/truetrans.git/static/js/2.1070589e.chunk.js.map",
-    "index.html": "/truetrans.git/index.html",
-    "precache-manifest.7ee6ebfddacbf7a54e34685e0a304a1f.js": "/truetrans.git/precache-manifest.7ee6ebfddacbf7a54e34685e0a304a1f.js",
-    "service-worker.js": "/truetrans.git/service-worker.js",
-    "static/css/2.1e999941.chunk.css.map": "/truetrans.git/static/css/2.1e999941.chunk.css.map",
-    "static/css/main.930e2092.chunk.css.map": "/truetrans.git/static/css/main.930e2092.chunk.css.map",
-    "static/media/font-awesome.min.css": "/truetrans.git/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/truetrans/static/css/main.930e2092.chunk.css",
+    "main.js": "/truetrans/static/js/main.10b8dfe8.chunk.js",
+    "main.js.map": "/truetrans/static/js/main.10b8dfe8.chunk.js.map",
+    "runtime~main.js": "/truetrans/static/js/runtime~main.dd763620.js",
+    "runtime~main.js.map": "/truetrans/static/js/runtime~main.dd763620.js.map",
+    "static/css/2.f1369401.chunk.css": "/truetrans/static/css/2.f1369401.chunk.css",
+    "static/js/2.a6ff1bba.chunk.js": "/truetrans/static/js/2.a6ff1bba.chunk.js",
+    "static/js/2.a6ff1bba.chunk.js.map": "/truetrans/static/js/2.a6ff1bba.chunk.js.map",
+    "index.html": "/truetrans/index.html",
+    "precache-manifest.519582e98c8fccef60dffb99de22352e.js": "/truetrans/precache-manifest.519582e98c8fccef60dffb99de22352e.js",
+    "service-worker.js": "/truetrans/service-worker.js",
+    "static/css/2.f1369401.chunk.css.map": "/truetrans/static/css/2.f1369401.chunk.css.map",
+    "static/css/main.930e2092.chunk.css.map": "/truetrans/static/css/main.930e2092.chunk.css.map",
+    "static/media/font-awesome.min.css": "/truetrans/static/media/fontawesome-webfont.fee66e71.woff"
   }
 }
