@@ -163,7 +163,7 @@ onChange(field, e){
                             </button>        
                         </form>
                         <div className="powered">
-                        <Link to="/register" >Create New Register</Link>
+                        <Link exact to="/register" >Create New Register</Link>
                         </div>
                     </div>
               </div>

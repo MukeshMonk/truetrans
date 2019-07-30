@@ -308,9 +308,9 @@ class Dashboard extends Component {
                 <IconDrop className="fa fa-user" ></IconDrop>
                 <IconDrop className="fa fa-caret-down"></IconDrop>
                 <Dropdowncont>
-                   <Link className="prof_link" to="/profile" >Profile</Link>
+                   <Link className="prof_link" exact to="/profile" >Profile</Link>
                    {AllFormData.data.data.tpsData.user_type ==='Admin' && <Link className="prof_link" to="/basic_configuration">Basic Configuration</Link>}
-                   <Link className="prof_link" to="" onClick={this.logout.bind(this)}>Logout</Link>
+                   <Link className="prof_link" exact to="" onClick={this.logout.bind(this)}>Logout</Link>
                   
                    
                 </Dropdowncont>           
