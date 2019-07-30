@@ -157,7 +157,7 @@ onChange(field, e){
                           
                         </div>
                         <button 
-                        onClick={this.login.bind(this)} type="button" className="buttonui "> 
+                        onClick={this.login} type="button" className="buttonui "> 
                         <span> Login </span>
                                 <div className="ripples buttonRipples"><span className="ripplesCircle"></span></div>
                             </button>        
