@@ -1,7 +1,6 @@
 {
   "name": "true",
   "version": "0.1.0",
-  "private": false,
   "homepage":"https://mukeshmonk.github.io/truetrans",
   "dependencies": {
     "axios": "^0.19.0",
