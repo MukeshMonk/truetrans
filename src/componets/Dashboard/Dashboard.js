@@ -257,8 +257,6 @@ class Dashboard extends Component {
     this.props.history.push("/");
   }
 
- 
-  
   render() {
    
   
