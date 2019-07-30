@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "339e57ffab24fdd71d0fcc2a87620b7e",
+    "revision": "5e9256d0c8653496fa3cd3da69b2df08",
     "url": "/truetrans/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/truetrans/static/css/2.f1369401.chunk.css"
   },
   {
-    "revision": "df9795054b94852b7ee2",
+    "revision": "ede536293fb0f971eeb0",
     "url": "/truetrans/static/css/main.930e2092.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/truetrans/static/js/2.340ce5e2.chunk.js"
   },
   {
-    "revision": "df9795054b94852b7ee2",
-    "url": "/truetrans/static/js/main.bab6e884.chunk.js"
+    "revision": "ede536293fb0f971eeb0",
+    "url": "/truetrans/static/js/main.100c2022.chunk.js"
   },
   {
     "revision": "1d9db10adc5a9b291844",
