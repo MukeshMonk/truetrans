@@ -5,6 +5,10 @@
   "dependencies": {
     "axios": "^0.19.0",
     "base-64": "^0.1.0",
+    "express": "^4.17.1",
+    "font-awesome": "^4.7.0",
+    "gh-pages": "^2.0.1",
+    "google-maps": "^3.3.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-flash-message": "^1.0.2",
@@ -12,7 +16,10 @@
     "react-scripts": "3.0.1",
     "styled-components": "^4.3.2"
   },
+  "homepage":"https://github.com/MukeshMonk/tps_new.git",
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

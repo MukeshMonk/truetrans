@@ -31,14 +31,14 @@ flex-direction: column;
 display: flex;
 outline: none;
 flex: 1 0 auto;
-background: linear-gradient(60deg, #66bb6a, #43a047);
+background: linear-gradient(60deg,#282928,#353535);
 `;
 
 const Logo = styled.div`
 padding: 15px 15px;
 z-index: 4;
 position: relative;
-background: darkcyan;
+background: #232222;
 `;
 
 const LinkImg = styled.a`
@@ -238,7 +238,7 @@ width: auto;
  
  let LeftMenu = props =>  <Link to={props.link} onClick={props.click}>
   <MenuSpace>
-    <Icon src="https://img.icons8.com/ios-glyphs/30/000000/user-male-circle.png"/>
+    <Icon src="https://img.icons8.com/ios/50/000000/user-male-circle.png"/>
     <Name className={props.iname}>{props.menuname}{props.fa_icon}</Name>
     <Span></Span>
   </MenuSpace>
@@ -254,7 +254,7 @@ class Dashboard extends Component {
   logout(){
     sessionStorage.removeItem('formData');
     localStorage.removeItem('formData');
-    this.props.history.push("/login");
+    this.props.history.push("/");
   }
 
  
@@ -277,7 +277,7 @@ class Dashboard extends Component {
             <Logo>
               <LinkImg href="#">
                 <InSideLinkDiv>
-                  <Icon src="https://img.icons8.com/material/24/000000/flow-chart.png"/>
+                  <Icon src="https://img.icons8.com/nolan/64/000000/cloudflare.png"/>
                 </InSideLinkDiv>
                 Creative Tim
               </LinkImg>

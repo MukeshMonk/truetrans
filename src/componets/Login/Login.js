@@ -142,9 +142,6 @@ onChange(field, e){
                         <h1>True Transport Login</h1>
                         </hgroup>
                         <form name="login">
-                            <div className="alert alert-success" role="alert">
-                                This is a success alert—check it out!
-                            </div>
                         <div className="group">
                     <input ref="email" type="text" name="email" className="temail" placeholder="Enter Email or Phone No" 
                     value={this.state.fields["email"]} onChange={this.onChange.bind(this, "email")}  />
