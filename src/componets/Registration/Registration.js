@@ -306,7 +306,7 @@ class Registration extends React.Component{
                             </button>     
                         </form>
                         <div className="powered">
-                        You have Already Account ? <Link exact to="/" className="link_login">Login</Link>
+                        You have Already Account ? <Link to="/" className="link_login">Login</Link>
                         </div>
 
                     </div>
