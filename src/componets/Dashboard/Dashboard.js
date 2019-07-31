@@ -338,9 +338,9 @@ class Dashboard extends Component {
               {/* {AllFormData.data.data.tpsData.company_id ==='' && AllFormData.data.data.tpsData.user_type ==='Admin' ? <div className="cmp_name"> <Link to="/addcompany"><Button>+Add company</Button> </Link></div>:''} */}
               
          
-                  
+                  <Switch>
                     <Content>
-                        <Switch>
+                    
                            <Route path="/profile" component={Profile} /> 
                            <Route path="/lorry_receipt" component={Lorry_Receipt} />     
                            <Route path="/invoice" component={Invoice} />
@@ -352,9 +352,8 @@ class Dashboard extends Component {
                            <Route path="/basic_configuration" component={Basic_Configuration} />
                            <Route path="/list_company" component={List_company} />
                            <Route path="/branch" component={Branch}/>
-                           </Switch>
                     </Content> 
-                  
+                    </Switch>
                
            </div> 
             </Router>
