@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Route,Router} from 'react-router-dom';
+import { Route,Router,Switch} from 'react-router-dom';
 import './App.css';
 /* Components */
 import Login from './componets/Login/Login';
