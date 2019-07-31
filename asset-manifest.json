@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/truetrans/static/css/main.930e2092.chunk.css",
-    "main.js": "/truetrans/static/js/main.fdc935a5.chunk.js",
-    "main.js.map": "/truetrans/static/js/main.fdc935a5.chunk.js.map",
-    "runtime~main.js": "/truetrans/static/js/runtime~main.dd763620.js",
-    "runtime~main.js.map": "/truetrans/static/js/runtime~main.dd763620.js.map",
-    "static/css/2.f1369401.chunk.css": "/truetrans/static/css/2.f1369401.chunk.css",
-    "static/js/2.340ce5e2.chunk.js": "/truetrans/static/js/2.340ce5e2.chunk.js",
-    "static/js/2.340ce5e2.chunk.js.map": "/truetrans/static/js/2.340ce5e2.chunk.js.map",
-    "index.html": "/truetrans/index.html",
-    "precache-manifest.eafcf286eefecec4faaab6657a9315c2.js": "/truetrans/precache-manifest.eafcf286eefecec4faaab6657a9315c2.js",
-    "service-worker.js": "/truetrans/service-worker.js",
-    "static/css/2.f1369401.chunk.css.map": "/truetrans/static/css/2.f1369401.chunk.css.map",
-    "static/css/main.930e2092.chunk.css.map": "/truetrans/static/css/main.930e2092.chunk.css.map",
-    "static/media/font-awesome.min.css": "/truetrans/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "52.15.109.140/static/css/main.930e2092.chunk.css",
+    "main.js": "52.15.109.140/static/js/main.01dfc78b.chunk.js",
+    "main.js.map": "52.15.109.140/static/js/main.01dfc78b.chunk.js.map",
+    "runtime~main.js": "52.15.109.140/static/js/runtime~main.feafc716.js",
+    "runtime~main.js.map": "52.15.109.140/static/js/runtime~main.feafc716.js.map",
+    "static/css/2.ddf0446e.chunk.css": "52.15.109.140/static/css/2.ddf0446e.chunk.css",
+    "static/js/2.36a129fb.chunk.js": "52.15.109.140/static/js/2.36a129fb.chunk.js",
+    "static/js/2.36a129fb.chunk.js.map": "52.15.109.140/static/js/2.36a129fb.chunk.js.map",
+    "index.html": "52.15.109.140/index.html",
+    "precache-manifest.949fea8b8bc87d7a67fc65333e0fab79.js": "52.15.109.140/precache-manifest.949fea8b8bc87d7a67fc65333e0fab79.js",
+    "service-worker.js": "52.15.109.140/service-worker.js",
+    "static/css/2.ddf0446e.chunk.css.map": "52.15.109.140/static/css/2.ddf0446e.chunk.css.map",
+    "static/css/main.930e2092.chunk.css.map": "52.15.109.140/static/css/main.930e2092.chunk.css.map",
+    "static/media/font-awesome.min.css": "52.15.109.140/static/media/fontawesome-webfont.fee66e71.woff"
   }
 }
