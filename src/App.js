@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Route,BrowserRouter,Switch} from 'react-router-dom';
+import { Route,BrowserRouter} from 'react-router-dom';
 import './App.css';
 /* Components */
 import Login from './componets/Login/Login';
@@ -14,7 +14,7 @@ class App extends Component {
           <BrowserRouter>
               <div>
                   <div className="content">
-                    <Switch></Switch>
+                  
                     <Route  path="/login" component={Login}/>
                     <Route  path="/dashboard" component={Dashboard} />
                     <Route path="/register" component={Registration} /> 
