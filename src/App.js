@@ -10,6 +10,7 @@ import { createBrowserHistory } from "history";
 class App extends Component {
   render() {
     const history = createBrowserHistory();
+    alert(history);
     return (
       <div className="app">
           <Router history={history}>
