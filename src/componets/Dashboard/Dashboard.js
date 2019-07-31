@@ -254,7 +254,7 @@ class Dashboard extends Component {
   logout(){
     sessionStorage.removeItem('formData');
     localStorage.removeItem('formData');
-    history.push("/");
+    this.props.history.push("/");
   }
 
   render() {
